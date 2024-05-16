@@ -1,5 +1,6 @@
 
 <h1>About Me 📌</h1>
+<p align="center">
 - 👋 Hi, I’m Raneem Daqa 
 <br />
 - 👨‍💻 I’m Interested in AI & ML Fields and Full-Stack Development
@@ -7,10 +8,12 @@
 - 💻 I’m Currently Learning Full-Stack Web Development
 <br />
 - 📫 How to Reach Me raneemdaqa9@gmail.com.
+    </p>
 <br />
 
-### Skills
 
+<h1>Skills📌</h1>
+<p align="center">
 <p align="left">
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -28,6 +31,10 @@
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/vXzSCR5/matlab-svgrepo-com.png" width="36" height="36" alt="Matplotlib" /></a>
     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/9GM5Y4v/icons8-spring-boot-48.png" width="36" height="36" alt="Spring Boot" /></a>
 </p>
+</p>
+
+
+
 
 
 <h2 align="center">Socials</h2>
