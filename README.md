@@ -30,7 +30,6 @@
 </p>
 
 
-
 <h2 align="center">Socials</h2>
 
 <p align="center">
@@ -44,6 +43,12 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
+<br>
+<h2 align="center">Overview & Statistics 📈</h2>
+<div align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaneemDaqa)](https://github.com/RaneemDaqa/github-readme-stats)
+</div>
 
 
              
