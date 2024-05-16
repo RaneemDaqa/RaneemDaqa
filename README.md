@@ -1,7 +1,9 @@
 
 <h1>About Me 📌</h1>
 - 👋 Hi, I’m Raneem Daqa 
+<br />
 - 👨‍💻 I’m Interested in AI & ML Fields and Full-Stack Development
+<br />
 - 💻 I’m Currently Learning Full-Stack Web Development
 - 📫 How to Reach Me [raneemdaqa9@gmail.com].
 
