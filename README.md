@@ -44,14 +44,15 @@
   </a>
 </p>
 
-<br>
-<h2 align="center">Overview & Statistics 📈</h2>
-<div align="center">
-    
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaneemDaqa)](https://github.com/RaneemDaqa/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaneemDaqa)](https://github.com/RaneemDaqa/github-readme-stats)
-  
-</div>
+<br><h2 align="center">Overview & Statistics 📈</h2>
 
+<div align="center">
+  <a href="https://github.com/RaneemDaqa/github-readme-stats">
+    <img alt="Raneem Daqa Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=RaneemDaqa&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3AC301&icon_color=3AC301&text_color=FFFFFF&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  </a>
+  <a href="https://github.com/RaneemDaqa/github-readme-stats">
+    <img alt="Amr Halahla's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=RaneemDaqa&show_icons=true&include_all_commits=true&count_private=false&theme=react&hide_border=true&bg_color=0D1117&title_color=3AC301&icon_color=3AC301&text_color=FFFFFF" height="192px"/>
+  </a>
+</div>
 
              
