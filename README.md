@@ -6,7 +6,7 @@
 <br />
 - 💻 I’m Currently Learning Full-Stack Web Development
 <br />
-- 📫 How to Reach Me raneemdaqa9@gmail.com.
+- 📫 How to Reach Me [](raneemdaqa9@gmail.com).
 <br />
 
 ### Skills
